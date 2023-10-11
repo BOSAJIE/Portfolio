@@ -1,7 +1,10 @@
 # Portfolio
 • About me
+
 • CV
+
 • Skills
+
 Tools
 Courses
 Examples of my work
