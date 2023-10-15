@@ -6,7 +6,7 @@
 * [Courses](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#courses)
 * [Examples of my work](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#examples-of-my-work)
   * [Test cases and work in TestRail](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#test-cases-and-work-in-testrail)
-  * [Bug reports](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#bug-reports)
+  * [Bug reports and work and work in Jira](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#bug-reports)
   * [Mind maps and diagrams](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#mind-maps-and-diagrams)
 ## About me
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a Software QA Engineer. And on the other, due to my personality, I love to communicate with people and solve problems.
@@ -55,7 +55,7 @@ able to comprehend easy codes
 ## Courses
 ## Examples of my work
 ### Test cases and work in TestRail
-### Bug reports 
+### Bug reports and work in Jira
 ### Mind maps and diagrams
 
 
