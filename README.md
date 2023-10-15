@@ -9,8 +9,7 @@ I got my Bachelor's Degree from Connecticut College and have been a Fulbright Sc
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would be extremely happy to apply obtained knowledge to mobile tesing, web testing, functional testing, and ui testing of an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
-
-• CV
+##CV
 
 • Skills
 
