@@ -84,6 +84,12 @@ Mind maps & diagrams
 * Know how to design beautifully simple mind maps
 
 ## Courses
+Software Testing and Quality Assurance Training
+__online course_ by Max Glubochansky_, Careerist 
+An intensive course in Quality Assurance.
+Link to the certificate 
+
+
 ## Examples of my work
 ### Test cases and work in TestRail
 ### Bug reports and work in Jira
