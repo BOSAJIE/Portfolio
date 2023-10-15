@@ -43,8 +43,8 @@ Exploratory testing
 
 Test documentation
 
-*Can create test cases and checklists and know how and in which situations to use them effectively
-*able to prepare comprehensive bug reports and provide detailed session reports
+* Can create test cases and checklists and know how and in which situations to use them effectively
+* Able to prepare comprehensive bug reports and provide detailed session reports
 
 SQL databases
 
