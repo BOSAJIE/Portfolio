@@ -11,16 +11,9 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 
 I would be extremely happy to apply obtained knowledge to mobile tesing, web testing, functional testing, and ui testing of an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 ## CV
-
-• Skills
-
-• Tools
-
-• Courses
-
-• Examples of my work
-* Test cases and work in TestRail
-* Bug reports and work in Jira
+## Skills
+## Tools
+## Courses
+## Examples of my work
 
 
-• Books I have read
