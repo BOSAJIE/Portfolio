@@ -19,7 +19,7 @@ I would be extremely happy to apply obtained knowledge to mobile tesing, web tes
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/1ujd8OXMKcTmH3uBA40iP5elJXgRVWLav/edit)
 ## Skills
-You can find examples of the secribed skills in my [Examples of my work]([url]()
+You can find examples of the secribed skills in my [Examples of my work](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#examples-of-my-work)
 
 Manual testing
 
@@ -92,8 +92,18 @@ Link to the certificate
 
 ## Examples of my work
 ### Test cases and work in TestRail
+
+* Test case for checking that a user is able to add a new client. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1-Ao-4jHIykQRavxkk7swAPLBbBW40LSaBhEbD8Y5A-4/edit?usp=sharing)
+* Test case for checking sign in button works. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1VnBqse3Xbk2emh2MYZ9u31cPurjlaiO_Sh5bn5-sjh4/edit?usp=sharing)
+* Test case for checking that user is able to make Business Entity with out phone number. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1nFOzBnQqqH17DLDBxfCPmWrPRoeteBhGZVjTw_p5ssk/edit?usp=sharing)
+  
 ### Bug reports and work in Jira
-### Mind maps and diagrams
+
+*Bug #1. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
+*Bug #2. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
+*Bug #3. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
+
+
 
 
 
