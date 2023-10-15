@@ -60,6 +60,29 @@ Python fundamentals
 
   
 ## Tools
+
+TestRail
+* Know how to create test cases and test suits
+* Able to run created test cases
+* Know how to use dashboards and statistics
+
+Jira
+* Know how to create bug reports
+* Able to create projects and track their progress
+
+SoapUI
+
+Browser developer tools
+
+VirtualBox
+* Able to set up and operate virtual machines
+
+Trello and Notion
+* Know how to use Kanban boards and track project progress
+
+Mind maps & diagrams
+* Know how to design beautifully simple mind maps
+
 ## Courses
 ## Examples of my work
 ### Test cases and work in TestRail
