@@ -99,9 +99,9 @@ Link to the certificate
   
 ### Bug reports and work in Jira
 
-*Bug #1. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
-*Bug #2. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
-*Bug #3. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
+* Bug #1. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
+* Bug #2. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
+* Bug #3. Check the [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1BWZJtAzlixtxjGF3jo6MmhBr6pQqdSB83iXbF4OK344/edit?usp=sharing)
 
 
 
