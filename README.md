@@ -1,5 +1,7 @@
 # Portfolio
-•* [About me](url)
+* [About me](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#about-me)
+*
+## About me
 
 • CV
 
