@@ -95,7 +95,7 @@ Link to the certificate
 
 * Test case for checking that a user is able to add a new client. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1-Ao-4jHIykQRavxkk7swAPLBbBW40LSaBhEbD8Y5A-4/edit?usp=sharing)
 * Test case for checking sign in button works. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1VnBqse3Xbk2emh2MYZ9u31cPurjlaiO_Sh5bn5-sjh4/edit?usp=sharing)
-* Test case for checking that user is able to make Business Entity with out phone number. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1nFOzBnQqqH17DLDBxfCPmWrPRoeteBhGZVjTw_p5ssk/edit?usp=sharing)
+* Test case for checking that user is able to make Business Entity without phone number. [Check the Google Sheet document here.](https://docs.google.com/spreadsheets/d/1nFOzBnQqqH17DLDBxfCPmWrPRoeteBhGZVjTw_p5ssk/edit?usp=sharing)
   
 ### Bug reports and work in Jira
 
