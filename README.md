@@ -1,6 +1,7 @@
 # Portfolio
 * [About me](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#about-me)
 * [CV](https://github.com/BOSAJIE/Portfolio/blob/main/README.md#cv)
+* [Skills](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#skills)
 ## About me
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a Software QA Engineer. And on the other, due to my personality, I love to communicate with people and solve problems.
 
@@ -47,5 +48,9 @@ able to comprehend easy codes
 ## Tools
 ## Courses
 ## Examples of my work
+### Test cases and work in TestRail
+### Bug reports 
+### Mind maps and diagrams
+
 
 
