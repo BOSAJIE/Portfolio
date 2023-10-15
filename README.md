@@ -1,5 +1,5 @@
 # Portfolio
-• [About me](url)
+•* [About me](url)
 
 • CV
 
