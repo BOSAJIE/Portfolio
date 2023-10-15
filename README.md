@@ -12,6 +12,7 @@ I would be extremely happy to apply obtained knowledge to mobile tesing, web tes
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/1ujd8OXMKcTmH3uBA40iP5elJXgRVWLav/edit)
 ## Skills
+You can find examples of the secribed skills in my [Examples of my work]([url]()
 ## Tools
 ## Courses
 ## Examples of my work
