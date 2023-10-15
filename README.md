@@ -2,6 +2,9 @@
 * [About me](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#about-me)
 * [CV](https://github.com/BOSAJIE/Portfolio/blob/main/README.md#cv)
 * [Skills](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#skills)
+* [Tools](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#tools)
+* [Courses](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#courses)
+* [Examples of my work](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#examples-of-my-work)
 ## About me
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a Software QA Engineer. And on the other, due to my personality, I love to communicate with people and solve problems.
 
