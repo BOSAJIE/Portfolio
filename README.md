@@ -17,7 +17,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 
 I would be extremely happy to apply obtained knowledge to mobile tesing, web testing, functional testing, and ui testing of an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/1ujd8OXMKcTmH3uBA40iP5elJXgRVWLav/edit)
+You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/1hFodw-spYQ1NKNvu11G1PPf8rh_9U4pQ/edit?usp=sharing&ouid=115393254393630843407&rtpof=true&sd=true)
 ## Skills
 You can find examples of the secribed skills in my [Examples of my work](https://github.com/BOSAJIE/Portfolio/edit/main/README.md#examples-of-my-work)
 
